@@ -1,16 +1,26 @@
 ### Hi there 👋
 
-<!--
-**soham2k06/soham2k06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I am Soham Bhikadiya, a web developer
 
-Here are some ideas to get you started:
+## About:
+Proficient in HTML5, CSS3, JavaScript
+Experienced with modern front-end frameworks like React
+Skilled in responsive web design and cross-browser compatibility
+Familiar with version control systems such as Git
+Comfortable with database such as MongoDB
+Capable of creating RESTful APIs
+Passionate about user experience (UX) and user interface (UI) design
+Always eager to learn new technologies and stay updated with industry trends
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills:
+- React.js
+- Next.js
+- Typescript
+- Tailwind CSS
+- MongoDB
+- Material UI
+- Bootstrap
+- Redux/Redux-toolkit
+- And many more react.js related libraries
+
+Thank you
