@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Soham Bhikadiya and I'm a Gujarat, from India</h2>
+<h2 align="left">Hi 👋! My name is Soham Bhikadiya <br /> I'm a Web Developer, from India</h2>
 
 ###
 
