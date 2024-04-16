@@ -3,7 +3,7 @@
 
 ###
 
-<div align="center" style="display: flex;">
+<div>
   <img src="https://streak-stats.demolab.com?user=soham2k06&theme=dark&hide_border=true" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=soham2k06&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
