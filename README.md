@@ -11,7 +11,7 @@
 
 ###
 
-<h3>I play and build amazing things with below toys</h3>
+<h3>I play and build amazing things with below tools</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
