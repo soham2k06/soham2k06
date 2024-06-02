@@ -5,7 +5,7 @@ Full Stack Developer
 --------------------
 
 * 🖥️  my portfolio at [sohamb.tech](https://www.sohamb.tech/)
-* 🎾  a full featured cricket scorer web app I built [ballbyball](https://ballbyball.vercel.app)
+* 🎾  [ballbyball](https://ballbyball.vercel.app) a fully featured cricket scorer web app I built
 * 🎯  currently built a SaaS
 * ✉️  connect me at [sohmm.dev@gmail.com](mailto:sohmm.dev@gmail.com)
 
