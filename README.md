@@ -1,8 +1,6 @@
 <h2 align="left">Hi 👋! My name is Soham Bhikadiya.</h2>
-<h3>I'm a Web Developer, from India</h3>
+<h3>I'm a Full Stack Web Developer, from India</h3>
 
-Full Stack Developer
---------------------
 
 * 🖥️  my portfolio at [sohamb.tech](https://www.sohamb.tech/)
 * 🎾  [ballbyball](https://ballbyball.vercel.app) a fully featured cricket scorer web app I built
