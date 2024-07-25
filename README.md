@@ -4,7 +4,7 @@
 
 * 🖥️  my portfolio at [sohamb.tech](https://www.sohamb.tech/)
 * 🎾  [ballbyball](https://ballbyball.vercel.app) a fully featured cricket scorer web app I built
-* 🎯  currently built a SaaS
+* 🎯  currently freelancing and built a SaaS
 * ✉️  connect me at [sohmm.dev@gmail.com](mailto:sohmm.dev@gmail.com)
 
 ###
