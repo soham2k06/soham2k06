@@ -9,12 +9,6 @@
 
 ###
 
-<div>
-  <img src="https://streak-stats.demolab.com/?user=soham2k06&theme=github-dark&border_radius=5" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=soham2k06&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="195px" alt="languages graph"  />
-</div>
-
-
 <h3>Reach out me</h3>
 
 <div align="left">
