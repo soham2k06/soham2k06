@@ -2,8 +2,8 @@
 <h3>I'm a Full Stack Web Developer, from India</h3>
 
 
-* 🖥️  my portfolio at [sohamb.tech](https://www.sohamb.tech/)
-* 🎾  [ballbyball](https://ballbyball.sohamb.tech) a fully featured cricket scorer web app I built
+* 🖥️  my portfolio at [sohamb.com](https://www.sohamb.com/)
+* 🎾  [ballbyball](https://ballbyball.sohamb.com) a fully featured cricket scorer web app I built
 * 🎯  currently freelancing
 * ✉️  connect me at [sohmm.dev@gmail.com](mailto:sohmm.dev@gmail.com)
 
