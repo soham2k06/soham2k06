@@ -4,7 +4,6 @@
 
 * 🖥️  my portfolio at [sohamb.com](https://www.sohamb.com/)
 * 🎾  [ballbyball](https://ballbyball.sohamb.com) a fully featured cricket scorer web app I built
-* 🎯  currently freelancing
 * ✉️  connect me at [sohmm.dev@gmail.com](mailto:sohmm.dev@gmail.com)
 
 ###
